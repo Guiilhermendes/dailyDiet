@@ -121,7 +121,7 @@ To run the tests defined for the project, execute the following command in the p
 npm test
 ```
 
-To run the tests in watch mode, which re-runs the tests on every file change:
+To run the tests in watch mode, which re-runs the tests on every file change: 
 
 ```bash
 npm run test:watch
