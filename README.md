@@ -134,10 +134,4 @@ npm run test:coverage
 
 ---
 
-## 📝 License
-
-This project is under the MIT license.
-
----
-
 Made with ❤️ by Guilherme Mendes
